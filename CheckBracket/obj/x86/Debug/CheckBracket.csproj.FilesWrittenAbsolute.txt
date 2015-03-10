@@ -1,0 +1,5 @@
+/Users/eherrador/Projects/CheckBracket/CheckBracket/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/eherrador/Projects/CheckBracket/CheckBracket/bin/Debug/CheckBracket.exe.mdb
+/Users/eherrador/Projects/CheckBracket/CheckBracket/bin/Debug/CheckBracket.exe
+/Users/eherrador/Projects/CheckBracket/CheckBracket/obj/x86/Debug/CheckBracket.exe
+/Users/eherrador/Projects/CheckBracket/CheckBracket/obj/x86/Debug/CheckBracket.exe.mdb
