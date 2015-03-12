@@ -12,6 +12,7 @@ namespace CheckBracket
 			/*Console.WriteLine (IsWellFormedBrackets("[(x+y)]"));
 			Console.WriteLine (AreParenthesesBalanced("{[x+y] ^ (2x-z)}"));
 			Console.WriteLine (CheckBalancedParentheses("{[x+y]}"));*/
+
 			Console.WriteLine (IsWellFormedBrackets("{[x+y] ^ (2x-z)}"));
 			Console.WriteLine (AreParenthesesBalanced("{[x+y] ^ (2x-z)}"));
 			Console.WriteLine (CheckBalancedParentheses("{[x+y] ^ (2x-z)}"));

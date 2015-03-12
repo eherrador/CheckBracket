@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="CheckBracket/CheckBracket.csproj" />
+﻿<Properties StartupItem="CheckBracket/CheckBracket.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckBracket/Program.cs">
+    <Files>
+      <File FileName="CheckBracket/Program.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
